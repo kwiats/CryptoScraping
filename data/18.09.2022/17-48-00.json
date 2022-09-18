@@ -8,22 +8,37 @@
                 "low": 1.0,
                 "high": 1.0024
             },
-            "market_price": 67925799240.0,
+            "market_price": 67923382634.0,
             "website": "http://tether.to",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
             "path": ".images/USDT.png"
         }
     },
     {
+        "title": "ethereum",
+        "information": {
+            "short_title": "ETH",
+            "price": 1421.76,
+            "low_high_24h": {
+                "low": 1416.01,
+                "high": 1473.0624
+            },
+            "market_price": 174052887394.0,
+            "website": "http://Website",
+            "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "path": ".images/ETH.png"
+        }
+    },
+    {
         "title": "bitcoin",
         "information": {
             "short_title": "BTC",
-            "price": 19854.41,
+            "price": 19855.26,
             "low_high_24h": {
                 "low": 19790.59,
                 "high": 20162.5324
             },
-            "market_price": 380294252326.0,
+            "market_price": 380310609308.0,
             "website": "http://bitcoin.org",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
             "path": ".images/BTC.png"
@@ -38,7 +53,7 @@
                 "low": 1.0,
                 "high": 1.0024
             },
-            "market_price": 67925799240.0,
+            "market_price": 67923382634.0,
             "website": "http://tether.to",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
             "path": ".images/USDT.png"
@@ -48,12 +63,12 @@
         "title": "cardano",
         "information": {
             "short_title": "ADA",
-            "price": 0.4722,
+            "price": 0.4715,
             "low_high_24h": {
                 "low": 0.4703,
                 "high": 0.489624
             },
-            "market_price": 16139146469.0,
+            "market_price": 16116392698.0,
             "website": "http://www.cardano.org",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
             "path": ".images/ADA.png"
@@ -68,7 +83,7 @@
                 "low": 0.9998,
                 "high": 1.0024
             },
-            "market_price": 50209055517.0,
+            "market_price": 50205803784.0,
             "website": "http://www.centre.io/usdc",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
             "path": ".images/USDC.png"
@@ -78,12 +93,12 @@
         "title": "bnb",
         "information": {
             "short_title": "BNB",
-            "price": 276.3,
+            "price": 275.36,
             "low_high_24h": {
                 "low": 274.95,
                 "high": 279.6224
             },
-            "market_price": 44578058955.0,
+            "market_price": 44425491221.0,
             "website": "http://www.binance.com",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
             "path": ".images/BNB.png"
@@ -93,12 +108,12 @@
         "title": "solana",
         "information": {
             "short_title": "SOL",
-            "price": 33.04,
+            "price": 32.99,
             "low_high_24h": {
                 "low": 32.87,
                 "high": 33.9524
             },
-            "market_price": 11698894063.0,
+            "market_price": 11683096801.0,
             "website": "http://solana.com",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
             "path": ".images/SOL.png"
@@ -108,12 +123,12 @@
         "title": "dogecoin",
         "information": {
             "short_title": "DOGE",
-            "price": 0.06078,
+            "price": 0.06071,
             "low_high_24h": {
                 "low": 0.06051,
                 "high": 0.0623224
             },
-            "market_price": 8063862528.0,
+            "market_price": 8054484430.0,
             "website": "http://dogecoin.com",
             "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
             "path": ".images/DOGE.png"

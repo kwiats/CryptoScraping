@@ -19,6 +19,7 @@ headers = {
 # list of popular cryptocurrency
 currency = [
     "tether",
+    "ethereum",
     "bitcoin",
     "tether",
     "cardano",
