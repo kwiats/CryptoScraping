@@ -3,8 +3,8 @@
 
 ###files###
 
-data\*
-images\*.png
+*.json
+*.png
 
 ### Linux ###
 *~
